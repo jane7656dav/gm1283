@@ -1,4 +1,4 @@
 <?php
-header("Location: https://pestssolution.us/nor/index.html");
+header("Location: https://au.norton.com/mobile-security-for-android");
 die();
 ?>
