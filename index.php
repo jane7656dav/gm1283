@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.corryscleaning.com/bedding/");
+header("Location: https://www.avonpestcontrol.ca/residential-pest-control/");
 die();
 ?>
